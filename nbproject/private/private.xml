@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/vista/Login.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/modelo/Boleta.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/controlador/ControladorLogin.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/db/ConexionGenericaDB.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/controlador/ControladorModificarBoleta.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/db/BaseDeDatosProyectoSemestral.sql</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/vista/Boletas.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/controlador/ControladorAgregarBoleta.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/controlador/ControladorBoletas.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/dao/BoletaDAOImpl.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/dao/BoletaDAOable.java</file>
+            <file>file:/C:/Users/Usuario-311/Desktop/ProyectoSemestral/src/vista/AgregarBoleta.java</file>
+        </group>
+    </open-files>
+</project-private>
